@@ -57,21 +57,47 @@ body {
     color: hsl(224, 23%, 55%);
 }
 .annual {
-    display: flex;
-    justify-content:space-between;
     margin:10px 40px;
     background-color:hsl(225, 100%, 98%) ;
     border-radius:10px;
     align-items:center;
+    font-weight: bold;
+    justify-content:space-between;
 }
 .annual .fiyat {
     color:hsl(224, 23%, 55%);
 }
 
-.annual p {
-    font-weight: bold;
-}
+
 .annual img {
     margin: 20px;
+    display: inline-block;
     
 }
+.annual-content {
+    
+    
+    display: flex;
+    align-items:center;
+    /* justify-content:space-between; */
+}
+.music {
+    flex: 1;
+}
+
+.orta {
+    /* justify-self: flex-start; */
+    display: flex;
+    flex-direction: column;
+    flex:1;
+}
+.change {
+    flex:2;
+    text-align: right;
+    padding:30px;
+    color:hsl(245, 75%, 52%);
+}
+
+    
+
+
