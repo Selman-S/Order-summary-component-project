@@ -5,7 +5,7 @@
 ## Welcome! 👋
 
 
-My project:
+My project:<br>
 [GitHub](https://github.com/Selman-S/order-summary-component-project)<br>
 [Netlify](https://selmans-projects.netlify.app/)<br>
 [FrontendMentor](https://www.frontendmentor.io/solutions/finally-i-did-order-summary-component-solution-rJctE-1r9)
