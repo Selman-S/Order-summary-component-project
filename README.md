@@ -6,7 +6,7 @@
 
 
 My project:<br>
-[GitHub](https://github.com/Selman-S/order-summary-component-project)<br>
-[Netlify](https://selmans-projects.netlify.app/)<br>
-[FrontendMentor](https://www.frontendmentor.io/solutions/finally-i-did-order-summary-component-solution-rJctE-1r9)
+on GitHub[](https://github.com/Selman-S/order-summary-component-project)<br>
+on Netlify[](https://selmans-projects.netlify.app/)<br>
+on FrontendMentor[](https://www.frontendmentor.io/solutions/finally-i-did-order-summary-component-solution-rJctE-1r9)
 
